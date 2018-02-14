@@ -81,7 +81,8 @@ margin-top: 2px;
 .footer-top input{
 	position: absolute;
 	top: 180px;
-	left: 615px;
+	left: 50%;
+	margin-left: -215px;
 	width: 430px;
 	height: 40px;
 	color: #b0b0b0;
@@ -97,7 +98,7 @@ margin-top: 2px;
 	height: 44px;
 	background-color: #6f7178;
 	top: 210px;
-	left: 1049px;
+	left: 62.5%;
 	line-height: 44px;
 	letter-spacing: 10px;
 	text-align: center;
